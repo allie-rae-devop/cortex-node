@@ -1,6 +1,7 @@
-# S25-Lab-Listener
+# Cortex Node
 
 **Cortex Node** implementation for the **Samsung Galaxy S25 Ultra**.
+This app is still very much pre-alpha and is dependentant on other projects like cortex-echo-chamber and more to come. Integration with n8n for agent work flow and OpenwebUI for RAG for the automation of technical documentation creation and being able to chat with that documentation later.
 
 ![App Info](git-assets/screen1.jpg)
 
